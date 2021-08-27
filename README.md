@@ -2,5 +2,7 @@
 
 -- Currently learning C, C++
 
--- Interested in exploit development for ROBLOX and other platforms, and microcontroller programming
+-- Interested in exploit development for game platforms like roblox, and microcontroller programming
+
+-- contribute to any github projects
 
